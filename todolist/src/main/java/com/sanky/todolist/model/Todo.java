@@ -22,3 +22,5 @@ public class Todo {
 
 
 }
+
+//use ctrl+ctrl to run anything
